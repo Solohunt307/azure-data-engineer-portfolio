@@ -1,0 +1,8 @@
+Order ID,Customer Name,Order Date,City,Order Amount
+1001,Ravi Kumar,2023-05-01,Bangalore,1200
+1002,Sneha Reddy,2023-05-02,Hyderabad,800
+1003,Arjun Das,2023-05-03,Chennai,1500
+1004,Ravi Kumar,2023-06-01,Bangalore,700
+1005,Sneha Reddy,,Hyderabad,950
+1006,Arjun Das,2023-06-10,,2000
+1002,Sneha Reddy,2023-05-02,Hyderabad,800
